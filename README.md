@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">- My name is Marcos Souza and i'm a C# Developer, from MG, Brazil 🇧🇷</h6>
+<h6 align="left">- My name is Marcos Souza and i'm a C# BackEnd and Unity3D Developer, from MG, Brazil 🇧🇷</h6>
 
 ###
 
