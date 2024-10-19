@@ -1,3 +1,15 @@
+<h1 align="left">👋 Hi there, welcome to my Github profile</h1>
+
+###
+
+<h6 align="left">- My name is Marcos Souza and i'm a C# Developer, from MG, Brazil 🇧🇷</h6>
+
+###
+
+<h2 align="left">My Techs</h2>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
@@ -8,6 +20,10 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
 </div>
 
 ###
